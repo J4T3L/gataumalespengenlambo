@@ -4,7 +4,7 @@ Composer install
 
 Npm install
 
-Php artisan migrate
+Php artisan migrate ganti import.sql file nak folder database
 
 php artisan key:generate
 
