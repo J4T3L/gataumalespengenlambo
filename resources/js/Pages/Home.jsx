@@ -20,7 +20,7 @@ export default function Home({ products = [] }) {
           {/* konten hero */}
           <div className="relative z-10 text-center px-6 max-w-4xl">
             <h1 className="text-4xl md:text-6xl font-extrabold uppercase tracking-wide leading-tight text-white">
-              Sigiarto <span className="text-yellow-400">Mart</span>
+              Breyven <span className="text-yellow-400">Mart</span>
             </h1>
             <p className="mt-4 text-base md:text-xl text-gray-300 max-w-xl mx-auto">
               Solusi lengkap kebutuhan sembako dan frozen food Anda.
